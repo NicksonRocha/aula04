@@ -1,0 +1,24 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    background-color: white;
+
+}
+
+.form {
+    background-color: #000;
+    color: white;
+    border-radius: 20px;
+    width: 650px;
+    text-align: center;
+    box-shadow: 0px 0px 4px black;
+    margin: 0 auto;
+    padding: 25px;
+}
